@@ -9,7 +9,7 @@ This system can be used for traffic monitoring, smart city projects, and transpo
 ## 🎥 Output Video
 
 ### 🔸 Vehicle Detection & Counting in Action  
-<video src="https://github.com/user-attachments/assets/4d04faae-14f2-4686-a422-8655daefa207" width="400" controls></video>
+<video src="https://github.com/user-attachments/assets/f1bde359-e00f-4100-87fd-0a6fd31b606e" width="400" controls></video>
 
 ---
 
