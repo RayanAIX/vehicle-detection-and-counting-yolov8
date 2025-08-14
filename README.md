@@ -41,15 +41,6 @@ ultralytics
 opencv-python
 ```
 
----
-
-## 📦 Requirements
-
-```bash
-ultralytics
-opencv-python
-```
-
 ## 📁 Project Structure
 
 | File                          | Description                                               |
