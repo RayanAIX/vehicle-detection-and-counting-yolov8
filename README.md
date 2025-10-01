@@ -13,6 +13,11 @@ This system can be used for traffic monitoring, smart city projects, and transpo
 
 ---
 
+## 🔴 Live Demo
+👉 Try the model on Streamlit: [🚗 Vehicle Detection & Counting](https://vehicle-detection-a-kpbwvsxri9mlxihgzp2bfp.streamlit.app/)
+
+---
+
 ## ⚙️ How It Works
 
 1. Load the **YOLOv8 pre-trained model** (`yolov8n.pt` for speed or `yolov8s.pt` for higher accuracy)
